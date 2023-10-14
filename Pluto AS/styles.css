@@ -1,0 +1,9 @@
+/* Your existing CSS styles */
+/* ... */
+
+/* Add styles for the chat button */
+.chat-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
